@@ -171,7 +171,24 @@ Transparent AI reasoning interface displaying:
 * Explainable AI reasoning framework
 
 ---
+## Screenshots
 
+### Dashboard
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Customer Details
+![Customer Details](docs/screenshots/customer-details.png)
+
+### Journey Timeline
+![Journey Timeline](docs/screenshots/journey-timeline.png)
+
+### Agent Insights
+![Agent Insights](docs/screenshots/agent-insights.png)
+
+### Experience Debt Heatmap
+![Heatmap](docs/screenshots/heatmap.png)
+
+---
 ## Prototype Scope
 
 This repository contains a functional prototype demonstrating:
