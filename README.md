@@ -137,6 +137,9 @@ Interactive visualization showing:
 * Support delays
 * Debt contributors
 
+### Architecture Diagram
+![Architecture](docs/screenshots/Architecture_diagram.png)
+
 ### Agent Insights
 
 Transparent AI reasoning interface displaying:
